@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "701680735107",
+    "project_id": "activiti10pam",
+    "storage_bucket": "activiti10pam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701680735107:android:b641f88f8bbec7c8d49cb6",
+        "android_client_info": {
+          "package_name": "com.example.activity9pam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701680735107-9ak41m6nsaqmrb0jj9ncci0s85cneg9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9BrgFjhsWEoAG5E8p0C2bw61KWNH8Bqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701680735107-9ak41m6nsaqmrb0jj9ncci0s85cneg9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
